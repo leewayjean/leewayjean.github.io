@@ -150,13 +150,13 @@ p {
   margin-top: 0; }
 
 a {
-  color: #F5235D;
+  color: #3b5998;
   -webkit-transition: .5s all;
   -o-transition: .5s all;
   -moz-transition: .5s all;
   transition: .5s all; }
   a:hover {
-    color: #92072d;
+    color: #3b599f;
     -webkit-transition: .5s all;
     -o-transition: .5s all;
     -moz-transition: .5s all;
@@ -237,34 +237,34 @@ input[type="submit"]:focus, input[type="reset"]:focus, input[type="button"]:focu
   font-weight: 600;
   text-transform: uppercase;
   color: #fff;
-  background-color: #F5235D;
-  border-color: #F5235D; }
+  background-color: #3b5998;
+  border-color: #3b5998; }
 
 input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
   color: #fff;
-  background-color: #F5235D;
-  border-color: #F5235D;
+  background-color: #3b5998;
+  border-color: #3b5998;
   font-family: "Raleway", Helvetica, Arial, sans-serif; }
 
 .button.button-primary:hover, button.button-primary:hover {
   color: #fff;
-  background-color: #f30b4b;
-  border-color: #f30b4b; }
+  background-color: #3b599f;
+  border-color: #3b599f; }
 
 input[type="submit"].button-primary:hover, input[type="reset"].button-primary:hover, input[type="button"].button-primary:hover {
   color: #fff;
-  background-color: #f30b4b;
-  border-color: #f30b4b; }
+  background-color: #3b599f;
+  border-color: #3b599f; }
 
 .button.button-primary:focus, button.button-primary:focus {
   color: #fff;
-  background-color: #F5235D;
-  border-color: #F5235D; }
+  background-color: #3b5998;
+  border-color: #3b5998; }
 
 input[type="submit"].button-primary:focus, input[type="reset"].button-primary:focus, input[type="button"].button-primary:focus {
   color: #fff;
-  background-color: #F5235D;
-  border-color: #F5235D; }
+  background-color: #3b5998;
+  border-color: #3b5998; }
 input[type="email"], input[type="number"], input[type="search"], input[type="text"], input[type="tel"], input[type="url"], input[type="password"] {
   height: 38px;
   padding: 6px 10px;
@@ -297,11 +297,11 @@ textarea {
   padding-bottom: 6px; }
 
 input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focus, input[type="text"]:focus, input[type="tel"]:focus, input[type="url"]:focus, input[type="password"]:focus {
-  border: 1px solid #F5235D;
+  border: 1px solid #3b5998;
   outline: 0; }
 
 textarea:focus, select:focus {
-  border: 1px solid #F5235D;
+  border: 1px solid #3b5998;
   outline: 0; }
 
 label, legend {
@@ -751,14 +751,14 @@ Header
       -moz-transition: .5s all;
       transition: .5s all; }
       .header .logo a:hover {
-        color: #F5235D;
+        color: #3b5998;
         -webkit-transition: .5s all;
         -o-transition: .5s all;
         -moz-transition: .5s all;
         transition: .5s all; }
         .header .logo a:hover h1:after {
           border-bottom: 4px solid;
-          border-bottom-color: #F5235D;
+          border-bottom-color: #3b5998;
           -webkit-transition: .5s all;
           -o-transition: .5s all;
           -moz-transition: .5s all;
@@ -800,7 +800,7 @@ Navbar
         -moz-transition: .5s all;
         transition: .5s all; }
         .nav ul li a:hover {
-          color: #F5235D;
+          color: #3b5998;
           -webkit-transition: .5s all;
           -o-transition: .5s all;
           -moz-transition: .5s all;
@@ -913,7 +913,7 @@ img {
   -moz-transition: .5s all;
   transition: .5s all; }
   .button-text:hover {
-    color: #F5235D;
+    color: #3b5998;
     -webkit-transition: .5s all;
     -o-transition: .5s all;
     -moz-transition: .5s all;
@@ -1068,7 +1068,7 @@ Top Bar
       .socials li a i {
         padding-top: 10px; }
       .socials li a:hover {
-        color: #F5235D;
+        color: #3b5998;
         -webkit-transition: .5s all;
         -o-transition: .5s all;
         -moz-transition: .5s all;
@@ -1348,7 +1348,7 @@ Article
       color: #222;
       text-decoration: none; }
       .article header .meta-data h3 a:hover {
-        color: #F5235D; }
+        color: #3b5998; }
   .article header .meta-data .author {
     font-size: 14px;
     margin: 0; }
@@ -1497,7 +1497,7 @@ Tags
       -moz-transition: .5s all;
       transition: .5s all; }
       .tags li .tag:hover {
-        background-color: #F5235D;
+        background-color: #3b5998;
         color: white;
         -webkit-transition: .5s all;
         -o-transition: .5s all;
@@ -1527,7 +1527,7 @@ Tags
       -moz-transition: .5s all;
       transition: .5s all; }
     .tags li .tag:hover::after {
-      border-left-color: #F5235D;
+      border-left-color: #3b5998;
       -webkit-transition: .5s all;
       -o-transition: .5s all;
       -moz-transition: .5s all;
@@ -1557,7 +1557,7 @@ Quote
       color: #222;
       text-decoration: none; }
       .quote .line-through a:hover {
-        color: #F5235D; }
+        color: #3b5998; }
   .quote .stripe-border {
     background: linear-gradient(to bottom, #fff, #fff 90%, #333 90%, #333);
     background-size: 100% 8px; }
@@ -1590,7 +1590,7 @@ Pagination
       -moz-transition: .5s all;
       transition: .5s all; }
       .pagination li a:hover {
-        color: #F5235D;
+        color: #3b5998;
         -webkit-transition: .5s all;
         -o-transition: .5s all;
         -moz-transition: .5s all;
@@ -1604,7 +1604,7 @@ Pagination
       position: relative;
       font-family: "Raleway", Helvetica, Arial, sans-serif; }
       .pagination li a.next:hover, .pagination li a.prev:hover {
-        color: #F5235D; }
+        color: #3b5998; }
     .pagination li a.next:focus, .pagination li a.prev:focus {
       box-shadow: none; }
   .pagination li.disabled {
@@ -1631,7 +1631,7 @@ Social Share
     -moz-transition: 1s all;
     transition: 1s all; }
     .socbtn .share:hover {
-      color: #F5235D;
+      color: #3b5998;
       -webkit-transition: 1s all;
       -o-transition: 1s all;
       -moz-transition: 1s all;
@@ -1703,7 +1703,7 @@ Language Styles
   color: #222; }
 
 .languages ul li a.active {
-  color: #F5235D; }
+  color: #3b5998; }
 
 /*--------------------------------------------------
 Footer
@@ -1736,7 +1736,7 @@ footer {
     -moz-transition: .5s all;
     transition: .5s all; }
     footer .backtotop:hover {
-      background-color: #F5235D;
+      background-color: #3b5998;
       -webkit-transition: .5s all;
       -o-transition: .5s all;
       -moz-transition: .5s all;
@@ -1835,7 +1835,7 @@ Responsive
       -o-transition: .5s all;
       transition: .5s all; }
       footer .backtotop:hover {
-        background-color: #F5235D;
+        background-color: #3b5998;
         -webkit-transition: .5s all;
         -o-transition: .5s all;
         transition: .5s all; }
