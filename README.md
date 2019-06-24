@@ -1,2 +1,2 @@
 # leewayjean.github.io
-personal website
+home page
